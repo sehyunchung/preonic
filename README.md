@@ -1,0 +1,2 @@
+# preonic
+My Preonic keymap
